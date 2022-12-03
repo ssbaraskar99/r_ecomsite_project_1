@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/r_ecomsite_project_1/static/css/main.78935dab.css",
-    "main.js": "/r_ecomsite_project_1/static/js/main.ae69edde.js",
-    "static/js/787.786f3ce7.chunk.js": "/r_ecomsite_project_1/static/js/787.786f3ce7.chunk.js",
+    "main.css": "/r_ecomsite_project_1/static/css/main.84f14594.css",
+    "main.js": "/r_ecomsite_project_1/static/js/main.48b8cfbd.js",
+    "static/js/27.1bcfeb08.chunk.js": "/r_ecomsite_project_1/static/js/27.1bcfeb08.chunk.js",
     "static/media/womenclothing.mp4": "/r_ecomsite_project_1/static/media/womenclothing.41d90b556c28270c72e1.mp4",
     "static/media/customercare.mp4": "/r_ecomsite_project_1/static/media/customercare.6d015c838ff5bd440e34.mp4",
     "static/media/electronics.mp4": "/r_ecomsite_project_1/static/media/electronics.cb95dff07810866e7111.mp4",
@@ -14,13 +14,10 @@
     "static/media/menclothing.mp4": "/r_ecomsite_project_1/static/media/menclothing.036f74e56085f068b885.mp4",
     "static/media/jewellery.mp4": "/r_ecomsite_project_1/static/media/jewellery.52ecd19a1754ab08ba27.mp4",
     "static/media/fastdelivery.mp4": "/r_ecomsite_project_1/static/media/fastdelivery.dac5215f67f186de7b82.mp4",
-    "index.html": "/r_ecomsite_project_1/index.html",
-    "main.78935dab.css.map": "/r_ecomsite_project_1/static/css/main.78935dab.css.map",
-    "main.ae69edde.js.map": "/r_ecomsite_project_1/static/js/main.ae69edde.js.map",
-    "787.786f3ce7.chunk.js.map": "/r_ecomsite_project_1/static/js/787.786f3ce7.chunk.js.map"
+    "index.html": "/r_ecomsite_project_1/index.html"
   },
   "entrypoints": [
-    "static/css/main.78935dab.css",
-    "static/js/main.ae69edde.js"
+    "static/css/main.84f14594.css",
+    "static/js/main.48b8cfbd.js"
   ]
 }
